@@ -1,0 +1,72 @@
+C:\Users\UserTul\source\repos\WinFormsApp6\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.exe
+C:\Users\UserTul\source\repos\WinFormsApp6\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.deps.json
+C:\Users\UserTul\source\repos\WinFormsApp6\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.runtimeconfig.json
+C:\Users\UserTul\source\repos\WinFormsApp6\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.dll
+C:\Users\UserTul\source\repos\WinFormsApp6\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.pdb
+C:\Users\UserTul\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.csproj.AssemblyReference.cache
+C:\Users\UserTul\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.csproj.GenerateResource.cache
+C:\Users\UserTul\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserTul\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.AssemblyInfoInputs.cache
+C:\Users\UserTul\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.AssemblyInfo.cs
+C:\Users\UserTul\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\UserTul\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.dll
+C:\Users\UserTul\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\refint\WinFormsApp6.dll
+C:\Users\UserTul\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.pdb
+C:\Users\UserTul\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.genruntimeconfig.cache
+C:\Users\UserTul\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\ref\WinFormsApp6.dll
+C:\Users\UserTul\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.GasStationView.resources
+C:\Users\UserTul\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.View.OilPaymentHistoryView.resources
+C:\Users\UserTul\Desktop\Новая папка\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.exe
+C:\Users\UserTul\Desktop\Новая папка\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.deps.json
+C:\Users\UserTul\Desktop\Новая папка\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.runtimeconfig.json
+C:\Users\UserTul\Desktop\Новая папка\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.dll
+C:\Users\UserTul\Desktop\Новая папка\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.pdb
+C:\Users\UserTul\Desktop\Новая папка\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.csproj.AssemblyReference.cache
+C:\Users\UserTul\Desktop\Новая папка\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.GasStationView.resources
+C:\Users\UserTul\Desktop\Новая папка\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.View.OilPaymentHistoryView.resources
+C:\Users\UserTul\Desktop\Новая папка\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.csproj.GenerateResource.cache
+C:\Users\UserTul\Desktop\Новая папка\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserTul\Desktop\Новая папка\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.AssemblyInfoInputs.cache
+C:\Users\UserTul\Desktop\Новая папка\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.AssemblyInfo.cs
+C:\Users\UserTul\Desktop\Новая папка\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\UserTul\Desktop\Новая папка\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.dll
+C:\Users\UserTul\Desktop\Новая папка\WinFormsApp6\obj\Debug\net6.0-windows\refint\WinFormsApp6.dll
+C:\Users\UserTul\Desktop\Новая папка\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.pdb
+C:\Users\UserTul\Desktop\Новая папка\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.genruntimeconfig.cache
+C:\Users\UserTul\Desktop\Новая папка\WinFormsApp6\obj\Debug\net6.0-windows\ref\WinFormsApp6.dll
+C:\Users\UserTul\Desktop\Новая папка (2)\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.exe
+C:\Users\UserTul\Desktop\Новая папка (2)\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.deps.json
+C:\Users\UserTul\Desktop\Новая папка (2)\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.runtimeconfig.json
+C:\Users\UserTul\Desktop\Новая папка (2)\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.dll
+C:\Users\UserTul\Desktop\Новая папка (2)\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.pdb
+C:\Users\UserTul\Desktop\Новая папка (2)\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.csproj.AssemblyReference.cache
+C:\Users\UserTul\Desktop\Новая папка (2)\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.GasStationView.resources
+C:\Users\UserTul\Desktop\Новая папка (2)\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.View.OilPaymentHistoryView.resources
+C:\Users\UserTul\Desktop\Новая папка (2)\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.csproj.GenerateResource.cache
+C:\Users\UserTul\Desktop\Новая папка (2)\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserTul\Desktop\Новая папка (2)\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.AssemblyInfoInputs.cache
+C:\Users\UserTul\Desktop\Новая папка (2)\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.AssemblyInfo.cs
+C:\Users\UserTul\Desktop\Новая папка (2)\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\UserTul\Desktop\Новая папка (2)\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.dll
+C:\Users\UserTul\Desktop\Новая папка (2)\WinFormsApp6\obj\Debug\net6.0-windows\refint\WinFormsApp6.dll
+C:\Users\UserTul\Desktop\Новая папка (2)\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.pdb
+C:\Users\UserTul\Desktop\Новая папка (2)\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.genruntimeconfig.cache
+C:\Users\UserTul\Desktop\Новая папка (2)\WinFormsApp6\obj\Debug\net6.0-windows\ref\WinFormsApp6.dll
+C:\Users\UserTul\Desktop\Новая папка (3)\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.exe
+C:\Users\UserTul\Desktop\Новая папка (3)\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.deps.json
+C:\Users\UserTul\Desktop\Новая папка (3)\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.runtimeconfig.json
+C:\Users\UserTul\Desktop\Новая папка (3)\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.dll
+C:\Users\UserTul\Desktop\Новая папка (3)\WinFormsApp6\bin\Debug\net6.0-windows\WinFormsApp6.pdb
+C:\Users\UserTul\Desktop\Новая папка (3)\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.csproj.AssemblyReference.cache
+C:\Users\UserTul\Desktop\Новая папка (3)\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.GasStationView.resources
+C:\Users\UserTul\Desktop\Новая папка (3)\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.View.OilPaymentHistoryView.resources
+C:\Users\UserTul\Desktop\Новая папка (3)\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.csproj.GenerateResource.cache
+C:\Users\UserTul\Desktop\Новая папка (3)\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserTul\Desktop\Новая папка (3)\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.AssemblyInfoInputs.cache
+C:\Users\UserTul\Desktop\Новая папка (3)\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.AssemblyInfo.cs
+C:\Users\UserTul\Desktop\Новая папка (3)\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\UserTul\Desktop\Новая папка (3)\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.dll
+C:\Users\UserTul\Desktop\Новая папка (3)\WinFormsApp6\obj\Debug\net6.0-windows\refint\WinFormsApp6.dll
+C:\Users\UserTul\Desktop\Новая папка (3)\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.pdb
+C:\Users\UserTul\Desktop\Новая папка (3)\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.genruntimeconfig.cache
+C:\Users\UserTul\Desktop\Новая папка (3)\WinFormsApp6\obj\Debug\net6.0-windows\ref\WinFormsApp6.dll
